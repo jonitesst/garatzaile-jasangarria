@@ -36,11 +36,11 @@ Nire aplikazioen karbono-aztarna murrizteko, honako hiru neurri tekniko hauek ap
 
 ## C. Nire ibilbide-orri etikoa: Aldaketarako eragilea
 
-Laster hasiko naizen praktikako enpresan (FCT), ez naiz kode-idazle huts bat izango; teknologiaren inpaktu sozial eta ingurumenekoaren ikuspuntu sistemikoa duen profesional bat baizik.
+Laster praktikak egingo ditudan enpresan (**Exel Eventos**), ez naiz kode-idazle huts bat izango; teknologiaren inpaktu sozial eta ingurumenekoaren ikuspuntu sistemikoa duen profesional bat baizik.
 
 **Nire lehenengo ekintza zehatza:**
-Praktiketan esleitzen didaten lehenengo proiektuan, Irisgarritasun Digitala (A11y) nire kodearen estandar bihurtuko dut. Garatzen dudan edozein interfaze edo webgunek teklatu bidezko nabigazioa ahalbidetuko du eta pantaila-irakurleentzat egokituta egongo da. Horrez gain, enpresako nire tutoreari kodearen optimizazioaren inguruko praktika onak (GameStop proiektuan ikasitakoak) aplikatzea proposatuko diot.
+Exel Eventos-en esleitzen didaten lehenengo proiektuan, Irisgarritasun Digitala (A11y) nire kodearen estandar bihurtuko dut. Garatzen dudan edozein interfaze edo webgunek teklatu bidezko nabigazioa ahalbidetuko du eta pantaila-irakurleentzat egokituta egongo da. Horrez gain, enpresako nire tutoreari kodearen optimizazioaren inguruko praktika onak (GameStop proiektuan ikasitakoak) aplikatzea proposatuko diot, enpresaren baliabide digitalak efizienteagoak izan daitezen.
 
 **Nola eragingo du nire lanak gizartean eta ingurumenean modu positiboan?**
-* **Gizarte mailan:** Inklusio digitala bermatuko dut nire praktikako enpresan. Irisgarritasun-arauak betetzen dituen aplikazio batek pertsona guztiei berdintasunez parte hartzeko aukera ematen die.
-* **Ingurumen mailan:** Kode garbi eta optimizatu batek hardwarearen baliabide gutxiago eskatzen ditu. Horri esker, bezeroek gailu zaharrekin lanean jarraitu dezakete errendimendua galdu gabe, zabor elektronikoa (e-waste) murriztuz.en baliabide gutxiago eskatzen ditu. Horri esker, enpresek eta bezeroek ordenagailu zaharrekin lanean jarraitu dezakete errendimendua galdu gabe, hardware berriaren beharra atzeratuz eta gure planean helburu den zabor elektronikoa (*e-waste*) nabarmen murriztuz.
+* **Gizarte mailan:** Inklusio digitala bermatuko dut nire praktiketan. Irisgarritasun-arauak betetzen dituen aplikazio batek pertsona guztiei berdintasunez parte hartzeko aukera ematen die, edozein direla ere haien gaitasunak.
+* **Ingurumen mailan:** Kode garbi eta optimizatu batek hardwarearen baliabide gutxiago eskatzen ditu. Horri esker, bezeroek eta erabiltzaileek gailu zaharrekin lanean jarraitu dezakete errendimendua galdu gabe, hardware berriaren beharra atzeratuz eta zabor elektronikoa (e-waste) murriztuz.
