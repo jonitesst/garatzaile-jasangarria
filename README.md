@@ -2,7 +2,7 @@
 # Nire Konpromiso Profesionala: Garatzaile Jasangarriaren Manifestua
 
 **Egilea:** Jonathan Fernandez
-**Profila:** Plataforma-anitzetako eta Web Aplikazioen Garatzailea (DAM/PAG)
+**Profila:** Plataforma-anitzetako eta Web Aplikazioen Garatzailea (PAG)
 
 ---
 
